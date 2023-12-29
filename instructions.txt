@@ -4,14 +4,14 @@
 pip install aziizam
 
 # install <version>
-pip install aziizam==0.0.1
+pip install aziizam==0.0.#
 
 # update library
 pip install -U aziizam
 
 # use any funtion
-    from Aziiz import FFFFF1 as F1        
-    F1()
+    from Aziiz import F1 as funtion        
+    funtion()
     
     from Aziiz import F1       
     F1()
@@ -23,8 +23,14 @@ pip install -U aziizam
 
 ========================================================================================
 
+python3 pip_uploder.py
+
+========================================================================================
+
+Manually:
+
 # opne the cmd in this directory
-cd C:\Users\A.Alminqah\Documents\VScCode\pip
+cd C:\Users\a.alminqah.AD\Documents\GitHub\AziizAM-Pypi
 
 # Run increment.py to increment version number 
 python3 -i increment.py
@@ -40,6 +46,7 @@ AziizAM
 
 # password
 **********
+
 
 
 
