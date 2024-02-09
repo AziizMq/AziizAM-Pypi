@@ -1,7 +1,7 @@
 import setuptools
 setuptools.setup(
     name='AziizAM',
-    version='0.0.3',
+    version='0.0.4',
     author="A.Alminqah",
     author_email="A.Alminqah@hotmail.com",
     description="Fast way to access my custom python function.",
